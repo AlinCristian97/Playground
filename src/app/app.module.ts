@@ -8,7 +8,6 @@ import { HomeComponent } from './components/home/home.component';
 import { FetchDataComponent } from './components/fetch-data/fetch-data.component';
 import { NavMenuComponent } from './components/nav-menu/nav-menu.component';
 import { Base32Component } from './components/base32/base32.component';
-import { FileUploadComponent } from './components/file-upload/file-upload.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 
 @NgModule({
