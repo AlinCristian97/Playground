@@ -17,7 +17,8 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
     HomeComponent,
     FetchDataComponent,
     Base32Component,
-    NavMenuComponent
+    NavMenuComponent,
+    FileUploadComponent
   ],
   imports: [
     BrowserModule,
